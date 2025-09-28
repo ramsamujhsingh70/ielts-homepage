@@ -25,9 +25,13 @@ This project demonstrates clean UI, responsive layouts, and a professional websi
 ## 🚀 Getting Started
 
 1-Install dependencies
+
   npm install
+  
 2- Run the development server
+
   npm run dev
+  
 Open your browser at  http://localhost:3000 🎉
 
 📸 Screenshots
